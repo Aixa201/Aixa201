@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aixa201
 - 👀 I’m interested in programming useful tools and making tests with not so useful tools
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Html and CSS
 - 💞️ I’m looking to collaborate on random projects like doing a costs calculator to a small program that returns dumb jokes
 - 📫 How to reach me: Discord Aixa201 #5624
